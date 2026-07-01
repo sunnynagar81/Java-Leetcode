@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0827-making-a-large-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0827-making-a-large-island) |
 ## Graph Theory
 |  |
 | ------- |
@@ -23,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Array
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0827-making-a-large-island) |
+## Union-Find
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0827-making-a-large-island) |
+## Matrix
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0827-making-a-large-island) |
 <!---LeetCode Topics End-->
