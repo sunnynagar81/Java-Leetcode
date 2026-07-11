@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0990-satisfiability-of-equality-equations](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0827-making-a-large-island) |
+| [0990-satisfiability-of-equality-equations](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1631-path-with-minimum-effort](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0827-making-a-large-island) |
+| [0990-satisfiability-of-equality-equations](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1631-path-with-minimum-effort](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0721-accounts-merge) |
+| [0990-satisfiability-of-equality-equations](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 ## Sorting
 |  |
 | ------- |
