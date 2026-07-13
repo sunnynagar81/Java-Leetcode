@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1631-path-with-minimum-effort](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0721-accounts-merge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## String
 |  |
 | ------- |
