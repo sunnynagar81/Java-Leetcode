@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0721-accounts-merge) |
@@ -110,11 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 ## Sorting
