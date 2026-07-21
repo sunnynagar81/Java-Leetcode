@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1162-as-far-from-land-as-possible](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -139,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0126-word-ladder-ii) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
