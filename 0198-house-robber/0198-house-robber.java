@@ -2,24 +2,25 @@ class Solution {
     public int rob(int[] nums) {
         
         int ind = nums.length - 1;
+
+        if(nums.length == 1) return nums[0];
+
         int[] dp = new int[ind + 1];
-        Arrays.fill(dp,-1);
-        return f(nums,ind,dp);
-    }
 
-    int f(int[] nums,int ind,int[] dp){
+        dp[0] = nums[0];
+        int neg = 0;
 
-        if(ind == 0) return nums[0];
-        if(ind < 0) return 0;
+        for(int i=1;i<=ind;i++){
 
-        if(dp[ind] != -1) return dp[ind];
+            int pick = nums[i];
+            if(i > 1)
+              pick += dp[i - 2];
 
-        int pick = nums[ind] + f(nums,ind - 2,dp);
+            int notPick = 0 + dp[i - 1];
 
-        int notPick = 0 + f(nums,ind - 1,dp);
-
-        dp[ind] = Math.max(pick,notPick);
-
+            dp[i] = Math.max(pick,notPick);
+        }
         return dp[ind];
+       
     }
 }
