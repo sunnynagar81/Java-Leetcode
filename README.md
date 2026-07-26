@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0509-fibonacci-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0091-decode-ways) |
 | [0126-word-ladder-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0721-accounts-merge) |
