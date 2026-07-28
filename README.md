@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0198-house-robber) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0055-jump-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
