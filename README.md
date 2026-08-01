@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0990-satisfiability-of-equality-equations](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1162-as-far-from-land-as-possible) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0778-swim-in-rising-water](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1631-path-with-minimum-effort](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
