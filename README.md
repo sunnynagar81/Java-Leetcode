@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0494-target-sum) |
 | [0721-accounts-merge](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0126-word-ladder-ii) |
+| [0494-target-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0494-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -211,10 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
