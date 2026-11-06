@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0120-triangle) |
+| [0189-rotate-array](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0221-maximal-square) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
