@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0221-maximal-square) |
+| [0283-move-zeroes](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -257,4 +258,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
