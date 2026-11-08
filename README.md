@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0221-maximal-square) |
+| [0268-missing-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0268-missing-number) |
 | [0778-swim-in-rising-water](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0127-word-ladder) |
+| [0268-missing-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0740-delete-and-earn) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0721-accounts-merge) |
 ## Minimum Spanning Tree
 |  |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -259,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0283-move-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
