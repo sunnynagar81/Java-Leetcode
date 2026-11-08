@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
