@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0063-unique-paths-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0001-two-sum) |
 | [0126-word-ladder-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0268-missing-number) |
