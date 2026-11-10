@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0198-house-robber) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0721-accounts-merge) |
 ## Minimum Spanning Tree
@@ -265,10 +267,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0268-missing-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
