@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0169-majority-element) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0221-maximal-square) |
 | [0778-swim-in-rising-water](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0827-making-a-large-island) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0169-majority-element) |
