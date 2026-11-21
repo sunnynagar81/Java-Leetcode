@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0322-coin-change) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0740-delete-and-earn) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0721-accounts-merge) |
 ## Minimum Spanning Tree
@@ -312,10 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sunnynagar81/Java-Leetcode/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
